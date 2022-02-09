@@ -1,0 +1,302 @@
+0 SCENE I. Rousillon. The COUNT's palace.
+1 
+2 Enter BERTRAM, the COUNTESS of Rousillon, HELENA, and LAFEU, all in black
+3 COUNTESS
+4 In delivering my son from me, I bury a second husband.
+5 BERTRAM
+6 And I in going, madam, weep o'er my father's death
+7 anew: but I must attend his majesty's command, to
+8 whom I am now in ward, evermore in subjection.
+9 LAFEU
+10 You shall find of the king a husband, madam; you,
+11 sir, a father: he that so generally is at all times
+12 good must of necessity hold his virtue to you; whose
+13 worthiness would stir it up where it wanted rather
+14 than lack it where there is such abundance.
+15 COUNTESS
+16 What hope is there of his majesty's amendment?
+17 LAFEU
+18 He hath abandoned his physicians, madam; under whose
+19 practises he hath persecuted time with hope, and
+20 finds no other advantage in the process but only the
+21 losing of hope by time.
+22 COUNTESS
+23 This young gentlewoman had a father,--O, that
+24 'had'! how sad a passage 'tis!--whose skill was
+25 almost as great as his honesty; had it stretched so
+26 far, would have made nature immortal, and death
+27 should have play for lack of work. Would, for the
+28 king's sake, he were living! I think it would be
+29 the death of the king's disease.
+30 LAFEU
+31 How called you the man you speak of, madam?
+32 COUNTESS
+33 He was famous, sir, in his profession, and it was
+34 his great right to be so: Gerard de Narbon.
+35 LAFEU
+36 He was excellent indeed, madam: the king very
+37 lately spoke of him admiringly and mourningly: he
+38 was skilful enough to have lived still, if knowledge
+39 could be set up against mortality.
+40 BERTRAM
+41 What is it, my good lord, the king languishes of?
+42 LAFEU
+43 A fistula, my lord.
+44 BERTRAM
+45 I heard not of it before.
+46 LAFEU
+47 I would it were not notorious. Was this gentlewoman
+48 the daughter of Gerard de Narbon?
+49 COUNTESS
+50 His sole child, my lord, and bequeathed to my
+51 overlooking. I have those hopes of her good that
+52 her education promises; her dispositions she
+53 inherits, which makes fair gifts fairer; for where
+54 an unclean mind carries virtuous qualities, there
+55 commendations go with pity; they are virtues and
+56 traitors too; in her they are the better for their
+57 simpleness; she derives her honesty and achieves her goodness.
+58 LAFEU
+59 Your commendations, madam, get from her tears.
+60 COUNTESS
+61 'Tis the best brine a maiden can season her praise
+62 in. The remembrance of her father never approaches
+63 her heart but the tyranny of her sorrows takes all
+64 livelihood from her cheek. No more of this, Helena;
+65 go to, no more; lest it be rather thought you affect
+66 a sorrow than have it.
+67 HELENA
+68 I do affect a sorrow indeed, but I have it too.
+69 LAFEU
+70 Moderate lamentation is the right of the dead,
+71 excessive grief the enemy to the living.
+72 COUNTESS
+73 If the living be enemy to the grief, the excess
+74 makes it soon mortal.
+75 BERTRAM
+76 Madam, I desire your holy wishes.
+77 LAFEU
+78 How understand we that?
+79 COUNTESS
+80 Be thou blest, Bertram, and succeed thy father
+81 In manners, as in shape! thy blood and virtue
+82 Contend for empire in thee, and thy goodness
+83 Share with thy birthright! Love all, trust a few,
+84 Do wrong to none: be able for thine enemy
+85 Rather in power than use, and keep thy friend
+86 Under thy own life's key: be cheque'd for silence,
+87 But never tax'd for speech. What heaven more will,
+88 That thee may furnish and my prayers pluck down,
+89 Fall on thy head! Farewell, my lord;
+90 'Tis an unseason'd courtier; good my lord,
+91 Advise him.
+92 LAFEU
+93 He cannot want the best
+94 That shall attend his love.
+95 COUNTESS
+96 Heaven bless him! Farewell, Bertram.
+97 Exit
+98 
+99 BERTRAM
+100 [To HELENA] The best wishes that can be forged in
+101 your thoughts be servants to you! Be comfortable
+102 to my mother, your mistress, and make much of her.
+103 LAFEU
+104 Farewell, pretty lady: you must hold the credit of
+105 your father.
+106 Exeunt BERTRAM and LAFEU
+107 
+108 HELENA
+109 O, were that all! I think not on my father;
+110 And these great tears grace his remembrance more
+111 Than those I shed for him. What was he like?
+112 I have forgot him: my imagination
+113 Carries no favour in't but Bertram's.
+114 I am undone: there is no living, none,
+115 If Bertram be away. 'Twere all one
+116 That I should love a bright particular star
+117 And think to wed it, he is so above me:
+118 In his bright radiance and collateral light
+119 Must I be comforted, not in his sphere.
+120 The ambition in my love thus plagues itself:
+121 The hind that would be mated by the lion
+122 Must die for love. 'Twas pretty, though plague,
+123 To see him every hour; to sit and draw
+124 His arched brows, his hawking eye, his curls,
+125 In our heart's table; heart too capable
+126 Of every line and trick of his sweet favour:
+127 But now he's gone, and my idolatrous fancy
+128 Must sanctify his reliques. Who comes here?
+129 Enter PAROLLES
+130 
+131 Aside
+132 
+133 One that goes with him: I love him for his sake;
+134 And yet I know him a notorious liar,
+135 Think him a great way fool, solely a coward;
+136 Yet these fixed evils sit so fit in him,
+137 That they take place, when virtue's steely bones
+138 Look bleak i' the cold wind: withal, full oft we see
+139 Cold wisdom waiting on superfluous folly.
+140 PAROLLES
+141 Save you, fair queen!
+142 HELENA
+143 And you, monarch!
+144 PAROLLES
+145 No.
+146 HELENA
+147 And no.
+148 PAROLLES
+149 Are you meditating on virginity?
+150 HELENA
+151 Ay. You have some stain of soldier in you: let me
+152 ask you a question. Man is enemy to virginity; how
+153 may we barricado it against him?
+154 PAROLLES
+155 Keep him out.
+156 HELENA
+157 But he assails; and our virginity, though valiant,
+158 in the defence yet is weak: unfold to us some
+159 warlike resistance.
+160 PAROLLES
+161 There is none: man, sitting down before you, will
+162 undermine you and blow you up.
+163 HELENA
+164 Bless our poor virginity from underminers and
+165 blowers up! Is there no military policy, how
+166 virgins might blow up men?
+167 PAROLLES
+168 Virginity being blown down, man will quicklier be
+169 blown up: marry, in blowing him down again, with
+170 the breach yourselves made, you lose your city. It
+171 is not politic in the commonwealth of nature to
+172 preserve virginity. Loss of virginity is rational
+173 increase and there was never virgin got till
+174 virginity was first lost. That you were made of is
+175 metal to make virgins. Virginity by being once lost
+176 may be ten times found; by being ever kept, it is
+177 ever lost: 'tis too cold a companion; away with 't!
+178 HELENA
+179 I will stand for 't a little, though therefore I die a virgin.
+180 PAROLLES
+181 There's little can be said in 't; 'tis against the
+182 rule of nature. To speak on the part of virginity,
+183 is to accuse your mothers; which is most infallible
+184 disobedience. He that hangs himself is a virgin:
+185 virginity murders itself and should be buried in
+186 highways out of all sanctified limit, as a desperate
+187 offendress against nature. Virginity breeds mites,
+188 much like a cheese; consumes itself to the very
+189 paring, and so dies with feeding his own stomach.
+190 Besides, virginity is peevish, proud, idle, made of
+191 self-love, which is the most inhibited sin in the
+192 canon. Keep it not; you cannot choose but loose
+193 by't: out with 't! within ten year it will make
+194 itself ten, which is a goodly increase; and the
+195 principal itself not much the worse: away with 't!
+196 HELENA
+197 How might one do, sir, to lose it to her own liking?
+198 PAROLLES
+199 Let me see: marry, ill, to like him that ne'er it
+200 likes. 'Tis a commodity will lose the gloss with
+201 lying; the longer kept, the less worth: off with 't
+202 while 'tis vendible; answer the time of request.
+203 Virginity, like an old courtier, wears her cap out
+204 of fashion: richly suited, but unsuitable: just
+205 like the brooch and the tooth-pick, which wear not
+206 now. Your date is better in your pie and your
+207 porridge than in your cheek; and your virginity,
+208 your old virginity, is like one of our French
+209 withered pears, it looks ill, it eats drily; marry,
+210 'tis a withered pear; it was formerly better;
+211 marry, yet 'tis a withered pear: will you anything with it?
+212 HELENA
+213 Not my virginity yet [ ]
+214 There shall your master have a thousand loves,
+215 A mother and a mistress and a friend,
+216 A phoenix, captain and an enemy,
+217 A guide, a goddess, and a sovereign,
+218 A counsellor, a traitress, and a dear;
+219 His humble ambition, proud humility,
+220 His jarring concord, and his discord dulcet,
+221 His faith, his sweet disaster; with a world
+222 Of pretty, fond, adoptious christendoms,
+223 That blinking Cupid gossips. Now shall he--
+224 I know not what he shall. God send him well!
+225 The court's a learning place, and he is one--
+226 PAROLLES
+227 What one, i' faith?
+228 HELENA
+229 That I wish well. 'Tis pity--
+230 PAROLLES
+231 What's pity?
+232 HELENA
+233 That wishing well had not a body in't,
+234 Which might be felt; that we, the poorer born,
+235 Whose baser stars do shut us up in wishes,
+236 Might with effects of them follow our friends,
+237 And show what we alone must think, which never
+238 Return us thanks.
+239 Enter Page
+240 
+241 Page
+242 Monsieur Parolles, my lord calls for you.
+243 Exit
+244 
+245 PAROLLES
+246 Little Helen, farewell; if I can remember thee, I
+247 will think of thee at court.
+248 HELENA
+249 Monsieur Parolles, you were born under a charitable star.
+250 PAROLLES
+251 Under Mars, I.
+252 HELENA
+253 I especially think, under Mars.
+254 PAROLLES
+255 Why under Mars?
+256 HELENA
+257 The wars have so kept you under that you must needs
+258 be born under Mars.
+259 PAROLLES
+260 When he was predominant.
+261 HELENA
+262 When he was retrograde, I think, rather.
+263 PAROLLES
+264 Why think you so?
+265 HELENA
+266 You go so much backward when you fight.
+267 PAROLLES
+268 That's for advantage.
+269 HELENA
+270 So is running away, when fear proposes the safety;
+271 but the composition that your valour and fear makes
+272 in you is a virtue of a good wing, and I like the wear well.
+273 PAROLLES
+274 I am so full of businesses, I cannot answer thee
+275 acutely. I will return perfect courtier; in the
+276 which, my instruction shall serve to naturalize
+277 thee, so thou wilt be capable of a courtier's
+278 counsel and understand what advice shall thrust upon
+279 thee; else thou diest in thine unthankfulness, and
+280 thine ignorance makes thee away: farewell. When
+281 thou hast leisure, say thy prayers; when thou hast
+282 none, remember thy friends; get thee a good husband,
+283 and use him as he uses thee; so, farewell.
+284 Exit
+285 
+286 HELENA
+287 Our remedies oft in ourselves do lie,
+288 Which we ascribe to heaven: the fated sky
+289 Gives us free scope, only doth backward pull
+290 Our slow designs when we ourselves are dull.
+291 What power is it which mounts my love so high,
+292 That makes me see, and cannot feed mine eye?
+293 The mightiest space in fortune nature brings
+294 To join like likes and kiss like native things.
+295 Impossible be strange attempts to those
+296 That weigh their pains in sense and do suppose
+297 What hath been cannot be: who ever strove
+298 So show her merit, that did miss her love?
+299 The king's disease--my project may deceive me,
+300 But my intents are fix'd and will not leave me.
+301 Exit
